@@ -1,7 +1,7 @@
 # Multi-Page React Website with GitHub API
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/raulzavala/react-websitecolor=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/raulzavala/react-website?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/raulzavala/react-website?color=56BEB8">
 
